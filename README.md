@@ -1,9 +1,9 @@
 # cfr-and-her-variant
 CFR(Counterfactual Regret Minimization) algorithm is a important method for solving imperfect information game, and proved to be workable relative to DRL.
-this code repo about realization of CFR basic method and related variants.
+This code repo about realization of CFR basic method and related variants.
 
 ## already done
-TBD
+1. regret matching
 
 ## pancake
 
